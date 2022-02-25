@@ -12,5 +12,7 @@ public class LargestElement {
 			}
 		}
 		System.out.println(max);
+		System.out.println(max);
+
 	}
 }
